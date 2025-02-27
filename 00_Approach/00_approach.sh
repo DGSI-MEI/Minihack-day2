@@ -1,0 +1,1 @@
+pandoc -f html -t markdown -o pagina.md https://www.fib.upc.edu
