@@ -12,7 +12,6 @@ Original file is located at
 !pip install html2text
 
 
-
 import requests
 from readability import Document
 import html2text
